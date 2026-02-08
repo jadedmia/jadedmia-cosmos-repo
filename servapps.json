@@ -1,0 +1,26 @@
+[
+  {
+    "name": "DynFi Manager",
+    "longDescription": "<p>DynFi Manager helps you manage your firewalls based on DynFi Firewall, the pfSense®, or the OPNsense® software. DynFi Manager is a non-intrusive system that allows you to centrally manage your devices. < /p>",
+    "description": "pfSense/OPNSense Firewall Manager",
+    "tags": [
+      "Automated",
+      "finance",
+      "self-hosted"
+    ],
+    "repository": "https://github.com/actualbudget/actual-server/",
+    "image": "https://hub.docker.com/r/actualbudget/actual-server",
+    "supported_architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "id": "DynFi Manager",
+    "screenshots": [
+      "https://jadedmia.github.io/jadedmia-cosmos-repo/servapps/dynfi-manager/screenshots/dynfi-manager-01.jpg",
+      "https://jadedmia.github.io/jadedmia-cosmos-repo/servapps/dynfi-manager/screenshots/dynfi-manager-02.jpg"
+    ],
+    "artefacts": {},
+    "icon": "https://jadedmia.github.io/jadedmia-cosmos-repo/servapps/dynfi-manager/icon.png",
+    "compose": "https://jadedmia.github.io/jadedmia-cosmos-repo/servapps/dynfi-manager/cosmos-compose.json"
+  }
+]
