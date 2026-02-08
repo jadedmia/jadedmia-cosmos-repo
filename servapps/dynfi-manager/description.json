@@ -1,0 +1,9 @@
+{
+    "name": "DynFi Manager",
+    "longDescription": "<p>DynFi Manager helps you manage your firewalls based on DynFi Firewall, the pfSense®, or the OPNsense® software. DynFi Manager is a non-intrusive system that allows you to centrally manage your devices. < /p>",
+    "description": "pfSense/OPNSense Firewall Manager",
+    "tags": ["security", "networking", "self-hosted"],
+    "repository": "https://github.com/DynFi/dynfi-manager-docker/",
+    "image": "https://jadedmia.github.io/jadedmia-cosmos-repo/dynfi-manager/screenshots/dynfi-manager.png",
+    "supported_architectures": ["amd64", "arm64"]
+}
